@@ -1,0 +1,27 @@
+
+/*= Home - below fold ========= */
+
+/** Home - below fold >> Uagb rm details **/
+#post-6 .uagb-rm-details {
+	width: 385px !important;
+}
+
+/** Home - below fold >> Uagb rm price **/
+#post-6 .uagb-rm__price {
+	font-size: 42px !important;
+	width: 39px !important;
+	padding-top: 13px !important;
+}
+
+
+/*( < 1200 )*/
+@media (max-width: 1199.98px) {
+	/** Home - below fold >> Rodape final **/
+	#colophon .site-below-footer-wrap {
+	min-height: 35px !important;
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+}
+
+}
+
